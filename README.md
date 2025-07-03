@@ -56,10 +56,14 @@ A comprehensive dashboard for tracking MEC (Monthly Execution Cycle) metrics acr
    ```
 
 3. **Configure environment variables**
-   Create a `.env` file in the root directory:
+   Copy the example environment file and configure your tokens:
+   ```bash
+   cp env.example .env
+   ```
+   Then edit `.env` with your actual Slack API tokens:
    ```env
-   SLACK_BOT_TOKEN=xoxb-your-slack-bot-token
-   SLACK_USER_TOKEN=xoxp-your-slack-user-token
+   SLACK_BOT_TOKEN=xoxb-your-actual-slack-bot-token
+   SLACK_USER_TOKEN=xoxp-your-actual-slack-user-token
    PORT=4000
    ```
 
