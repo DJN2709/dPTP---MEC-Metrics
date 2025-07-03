@@ -1,0 +1,171 @@
+extractHighLevelTimeline CALLED, messages: 950
+Checking booked message: 2023-05-03T21:21:51.272Z | May 2023 | Text: "<!subteam^S02DTMFHCSZ> <!subteam^S02G7PF4VDG> <!subteam^S03AWL0KUGY>
+
+<https://roar.spotify.net/musi..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2023-06-05T22:31:39.490Z | June 2023 | Text: "Hi :butterflyyy: s,
+
+<https://roar.spotify.net/music/calculations/results/01888314-504f-fc45-db37-16..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2023-07-06T22:53:55.774Z | July 2023 | Text: "hi all! <https://roar.spotify.net/music/calculations/results/01892be4-7afe-4674-03a7-0d53505c6958|Ju..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2023-07-07T08:41:03.497Z | July 2023 | Text: ":alarm: `Incident for reporting materializer`:alarm:
+
+:wave: All
+
+Incident ticket: <https://jira.spo..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2023-08-02T14:30:44.722Z | August 2023 | Text: "Hi :butterfly: s, writing an EOD handover ping:
+• The MCT contract assignment has been corrected :gr..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2023-08-03T22:37:24.559Z | August 2023 | Text: "Hi :butterflyyy: s, <https://roar.spotify.net/music/calculations/results/0189bc08-fd5b-3946-6772-fba..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2023-09-06T23:10:52.789Z | September 2023 | Text: "Hi :monarch: s,
+
+<https://roar.spotify.net/music/calculations/results/018a6bbd-07ab-88cb-f63a-98a16c..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2023-11-08T23:45:43.338Z | November 2023 | Text: "Hi :monarch: s, Oct 2023 MEC is booked. Thanks to the team effort across Accounting, as always.
+
+cc ..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2023-12-06T22:30:17.988Z | December 2023 | Text: "Hi Monarchs, <https://roar.spotify.net/music/calculations/results/018c40c9-1fc2-7743-f961-028f5ea893..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-01-04T23:34:45.753Z | January 2024 | Text: "Hi :monarch: s, quite a smooth MEC, thanks to all of the team work across Accounting and Finance (an..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-02-06T03:33:49.749Z | February 2024 | Text: "Hi friends,
+
+Jan 2024 MEC is booked <https://roar.spotify.net/music/calculations/results/018d7bba-ab..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-03-06T01:36:54.049Z | March 2024 | Text: "Hi all,
+
+<https://roar.spotify.net/music/calculations/results/018e1074-5d83-0c53-3154-be67924665c4|F..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-04-03T22:14:18.345Z | April 2024 | Text: "Hi friends,
+
+*<https://roar.spotify.net/music/calculations/results/018ea55e-1971-690a-6f74-080cfef80..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-05-03T23:30:45.096Z | May 2024 | Text: "Hi :monarch: s
+
+<https://roar.spotify.net/music/calculations/results/018f3fb8-fd64-1587-801c-e506f3e..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-06-05T21:58:45.701Z | June 2024 | Text: "Hi friends, <https://roar.spotify.net/music/calculations/results/018fe981-0128-b4e2-8a2f-41ee82c275f..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-07-03T22:57:08.699Z | July 2024 | Text: "Hi :monarch: s,
+
+*<https://roar.spotify.net/music/calculations/results/019079e2-6ff5-b849-0b11-fcc0e..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-08-05T23:11:02.373Z | August 2024 | Text: "Hello :butterfly: s, *<https://roar.spotify.net/music/calculations/results/019123c0-d138-fc39-bcb6-5..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-09-05T22:48:16.355Z | September 2024 | Text: "Hi MEC friends,
+
+<https://roar.spotify.net/music/calculations/results/0191c370-650d-dca8-b3b0-f2054b..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-10-03T23:36:48.208Z | October 2024 | Text: "Hello there, Monarchs,
+
+<https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm?si=24233c47e215456d|S..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-11-07T23:23:19.075Z | November 2024 | Text: "Hi all,
+
+*October 2024 MEC has been booked* :books: :library: :bookmark: 
+
+Thanks to all who got thi..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2024-12-04T23:05:47.125Z | December 2024 | Text: "*November 2024 is booked* :books: 
+
+<https://roar.spotify.net/music/calculations/results/019392fa-d9..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2025-01-06T23:18:32.032Z | January 2025 | Text: "*Hi all, <https://roar.spotify.net/music/calculations/results/01943cee-972d-c8fa-f3e6-0b53d5840236?p..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2025-02-05T22:36:21.801Z | February 2025 | Text: "Hello all,
+
+*<https://roar.spotify.net/music/calculations/results/0194d785-ea14-535b-8409-bb7ae46524..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2025-03-05T22:56:55.928Z | March 2025 | Text: "Hi all,
+
+<https://roar.spotify.net/music/calculations/results/0195679a-9bd6-e728-259f-df8440a893f0?p..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2025-04-03T22:03:45.117Z | April 2025 | Text: "Hello friends,
+
+*<https://roar.spotify.net/music/calculations/results/0195fcb5-69b4-d2c5-f4ed-849c43..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2025-05-06T00:41:26.095Z | May 2025 | Text: "Hello all,
+
+Despite some delays due to an incident upstream, *<https://roar.spotify.net/music/calcul..."
+  Pre-June 2025: accepting all booked messages
+Checking booked message: 2025-06-02T15:46:24.716Z | June 2025 | Text: "<@U01QZNWM9A8> I'm seeing some failing music rerun ingests for runs with the comment `MLC Re-Run Pro..."
+  June 2025+ filtering: hasMusic=true, hasBooked=true, proximity=true, multiSection=false, validMusicBooked=true
+Checking booked message: 2025-06-03T17:58:10.149Z | June 2025 | Text: ":books-jam: *Hi all <!subteam^S02DTMFHCSZ>* *<!subteam^S05RMP742DP>* *<@U01QTUC5RQA>* *<@U01QTKKCRFV..."
+  June 2025+ filtering: hasMusic=false, hasBooked=true, proximity=false, multiSection=false, validMusicBooked=false
+Checking booked message: 2025-06-03T20:59:01.328Z | June 2025 | Text: "Hi all, WD2 -> WD3 handover - see below:
+
+:music-note:  *Music*
+• <@U01QCSMDPK9> please close out th..."
+  June 2025+ filtering: hasMusic=true, hasBooked=true, proximity=false, multiSection=false, validMusicBooked=false
+Checking booked message: 2025-06-04T22:36:49.512Z | June 2025 | Text: "*WD3 EOD update:*
+
+:music-note:  *Music:*
+• <https://roar.spotify.net/music/calculations/results/019..."
+  June 2025+ filtering: hasMusic=true, hasBooked=true, proximity=true, multiSection=false, validMusicBooked=true
+Checking booked message: 2025-07-01T21:59:49.090Z | July 2025 | Text: "Hi all, WD1 -> WD2 update below:
+
+:books-jam:  *ABP*
+• Completed  :green-checkmark: 
+    ◦ <https://..."
+  June 2025+ filtering: hasMusic=true, hasBooked=true, proximity=false, multiSection=false, validMusicBooked=false
+Checking booked message: 2025-07-02T16:48:24.742Z | July 2025 | Text: ":books-jam:
+:books-jam:
+:books-jam:
+:books-jam:
+
+<https://roar.spotify.net/audiobooks/calculations/r..."
+  June 2025+ filtering: hasMusic=false, hasBooked=true, proximity=false, multiSection=false, validMusicBooked=false
+Checking booked message: 2025-07-02T22:18:21.539Z | July 2025 | Text: "Hi all, WD2 -> WD3 update below:
+
+:books-jam:  *ABP*
+• Completed  :green-checkmark:
+    ◦ June 2025 ..."
+  June 2025+ filtering: hasMusic=true, hasBooked=true, proximity=false, multiSection=false, validMusicBooked=false
+Total booked messages after filtering: 28
+Found booked message for January 2024: 2024-01-04T23:34:45.753Z
+No MEC Update found in December 2023 for January 2024
+Found booked message for February 2024: 2024-02-06T03:33:49.749Z
+No MEC Update found in January 2024 for February 2024
+Found booked message for March 2024: 2024-03-06T01:36:54.049Z
+No MEC Update found in February 2024 for March 2024
+Found booked message for March 2024: 2024-03-06T01:36:54.049Z
+No MEC Update found in February 2024 for March 2024
+Found booked message for April 2024: 2024-04-03T22:14:18.345Z
+No MEC Update found in March 2024 for April 2024
+Found booked message for May 2024: 2024-05-03T23:30:45.096Z
+No MEC Update found in April 2024 for May 2024
+Found booked message for June 2024: 2024-06-05T21:58:45.701Z
+Found MEC Update for June 2024: 2024-05-29T15:50:16.909Z
+Found booked message for July 2024: 2024-07-03T22:57:08.699Z
+Found MEC Update for July 2024: 2024-06-28T13:23:16.601Z
+Found booked message for August 2024: 2024-08-05T23:11:02.373Z
+Found MEC Update for August 2024: 2024-07-30T15:00:48.830Z
+Found booked message for September 2024: 2024-09-05T22:48:16.355Z
+Found MEC Update for September 2024: 2024-08-29T13:19:01.277Z
+Found booked message for November 2024: 2024-11-07T23:23:19.075Z
+Found MEC Update for November 2024: 2024-10-30T14:42:25.993Z
+Found booked message for December 2024: 2024-12-04T23:05:47.125Z
+Found MEC Update for December 2024: 2024-11-28T16:32:33.717Z
+Found booked message for January 2025: 2025-01-06T23:18:32.032Z
+Found MEC Update for January 2025: 2024-12-30T14:21:20.570Z
+Found booked message for February 2025: 2025-02-05T22:36:21.801Z
+Found MEC Update for February 2025: 2025-01-30T15:25:22.513Z
+Found booked message for March 2025: 2025-03-05T22:56:55.928Z
+Found MEC Update for March 2025: 2025-02-27T14:19:26.301Z
+Found booked message for March 2025: 2025-03-05T22:56:55.928Z
+Found MEC Update for March 2025: 2025-02-27T14:19:26.301Z
+Found booked message for April 2025: 2025-04-03T22:03:45.117Z
+Found MEC Update for April 2025: 2025-03-28T16:32:02.853Z
+Found booked message for May 2025: 2025-05-06T00:41:26.095Z
+Found MEC Update for May 2025: 2025-04-30T08:53:51.857Z
+Found booked message for June 2025: 2025-06-02T15:46:24.716Z
+Found MEC Update for June 2025: 2025-05-30T14:48:16.860Z
+No booked message found for July 2025
+No booked message found for August 2025
+No booked message found for September 2025
+No booked message found for November 2025
+No booked message found for December 2025

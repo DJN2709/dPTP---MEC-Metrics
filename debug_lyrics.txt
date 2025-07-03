@@ -1,0 +1,357 @@
+extractLyricsHighLevelTimeline CALLED, messages: 951
+Counting messages by month...
+June 2025 messages: 27
+Total unique months: 61
+Found MEC Update in May 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is available on ..."
+Found MEC Update in June 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoined is av..."
+Found MEC Update in June 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoined is av..."
+Found MEC Update in June 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoined is av..."
+Found MEC Update in June 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is available on ..."
+Found MEC Update in July 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoined is av..."
+Found MEC Update in July 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoined is av..."
+Found MEC Update in July 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoined is av..."
+Found MEC Update in July 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoined is av..."
+Found MEC Update in July 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is available on ..."
+Found MEC Update in August 2024: "MEC UPDATE:
+
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoined is av..."
+Found MEC Update in August 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in September 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in September 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in September 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in September 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in October 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in October 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in October 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in October 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in November 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in November 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in November 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in November 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in November 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in December 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:  CliqueDataJoi..."
+Found MEC Update in December 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:  CliqueDataJoi..."
+Found MEC Update in December 2024: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in January 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in January 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in January 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:  CliqueDataJoi..."
+Found MEC Update in January 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:  CliqueDataJoi..."
+Found MEC Update in January 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in February 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in February 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in February 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in February 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in February 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in March 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:CliqueDataJoine..."
+Found MEC Update in March 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:CliqueDataJoine..."
+Found MEC Update in March 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:CliqueDataJoine..."
+Found MEC Update in March 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:CliqueDataJoine..."
+Found MEC Update in March 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in April 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in April 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in April 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in April 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in May 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in May 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in May 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in May 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in May 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:load: CliqueDataJoined is avail..."
+Found MEC Update in June 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in June 2025: "MEC update:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: backfill is complete......"
+Found MEC Update in June 2025: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+Found MEC Update in June 2025: ":bird-bard: ABP MEC update:
+:green-checkmark: Backfill has been triggered.
+:load: backfill is comple..."
+Found MEC Update in July 2025: ":bird-bard: ABP MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark:backfill..."
+Total MEC Updates found: 5
+ALL JUNE 2025 MSG: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+ALL JUNE 2025 MSG: "MEC update:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: backfill is complete......"
+ALL JUNE 2025 MSG: "<@U01QZNWM9A8>, as you know it, today will be the first MEC that will rely on <#C01L405Q8KT|>'s reve..."
+ALL JUNE 2025 MSG: "<@U01QZNWM9A8> a small last minute thing:
+We would like to update to new Netsuite credentials in Mon..."
+ALL JUNE 2025 MSG: "<@U01QZNWM9A8> I'm seeing some failing music rerun ingests for runs with the comment `MLC Re-Run Pro..."
+ALL JUNE 2025 MSG: "_Hi all, WD1 -> WD2 updates for music, lyrics and audiobooks MEC below:_
+
+:music-note: *Music*
+• Alp..."
+  -> Contains lyrics!
+MSG with LYRICS in June 2025: "_Hi all, WD1 -> WD2 updates for music, lyrics and audiobooks MEC below:_
+
+:music-note: *Music*
+• Alpha run complete and all checks generated <https://roar.spotify.net/music/checks/3f513244-549d-430a-a0a6-0e1de6850365?st=ff595a18-f8c9-43ed-a324-3e360cd7691d|here>
+    ◦ <@U01QQA4PLFP> <@U01QTP7AMHQ> to take a first stab at our Alpha checks tomorrow; as I noted last week, *please do not do exception checks*, as <@U08P158JYJF> will take these during US working hours tomorrow :+1: 
+• Vermillion <@U01..."
+Lyrics index: 39, Booked index: -1, hasBooked: false
+ALL JUNE 2025 MSG: ":thread:  Starting a new thread for the volatile :thread:
+<#C01L405Q8KT|> has provided the rights fo..."
+ALL JUNE 2025 MSG: ":books-jam: *Hi all <!subteam^S02DTMFHCSZ>* *<!subteam^S05RMP742DP>* *<@U01QTUC5RQA>* *<@U01QTKKCRFV..."
+ALL JUNE 2025 MSG: "Hi all, WD2 -> WD3 handover - see below:
+
+:music-note:  *Music*
+• <@U01QCSMDPK9> please close out th..."
+  -> Contains WD3!
+  -> Contains lyrics!
+MSG with LYRICS in June 2025: "Hi all, WD2 -> WD3 handover - see below:
+
+:music-note:  *Music*
+• <@U01QCSMDPK9> please close out the FiDi workflows tomorrow when you can!
+• Please document volatile backfill issues in a ticket (when you can!) and <https://spotify.slack.com/archives/CB0CY1YBH/p1748974847313579?thread_ts=1748949656.686449&cid=CB0CY1YBH|respond to Q re: this impacting CAND> <@U01QTM3015H> - just want to make sure we don't hit any unforeseen delays
+• <https://docs.google.com/spreadsheets/d/1h2pp0qanUVpWzrdvR2MxAWt..."
+Lyrics index: 785, Booked index: 999, hasBooked: true
+FOUND lyrics->booked message in June 2025: "Hi all, WD2 -> WD3 handover - see below:
+
+:music-note:  *Music*
+• <@U01QCSMDPK9> please close out the FiDi workflows tomorrow when you can!
+• Please d..."
+ALL JUNE 2025 MSG: "Hi team, WD3 updates :thread:..."
+  -> Contains WD3!
+ALL JUNE 2025 MSG: "Hi <@U01QTM3015H> <@U01QZNWM9A8> <@U041PT4729W>! <@U01QTTEBU74> was looking into the RASP estimate u..."
+ALL JUNE 2025 MSG: "<!subteam^S05RMP742DP> wondering if I can get assistance on something related to input completeness...."
+ALL JUNE 2025 MSG: "Hi <@U041PT4729W>! Are you or anyone in Overtone able to grant my access request to the following ta..."
+ALL JUNE 2025 MSG: "*WD3 EOD update:*
+
+:music-note:  *Music:*
+• <https://roar.spotify.net/music/calculations/results/019..."
+  -> Contains WD3!
+  -> Contains lyrics!
+MSG with LYRICS in June 2025: "*WD3 EOD update:*
+
+:music-note:  *Music:*
+• <https://roar.spotify.net/music/calculations/results/01973c61-f03c-0750-c2d7-3c1154ec4857?p=1|May 2025 Music MEC> booked! :bookcap: :books: 
+• <@U02LFS5CJUB> <@U03CSKGQMBN> to confirm ARPU check hunch as it's related to RPU migration tomorrow
+• Post-processing items
+    ◦ <@U01QQA4PLFP> <@U01QTP7AMHQ> <@U01QCSMDPK9> if you can take a look at our post-processing checklist in the Airtable MEC checklist, that would be great. Happy to have <@U08P158JYJF> a..."
+Lyrics index: 566, Booked index: 158, hasBooked: true
+ALL JUNE 2025 MSG: ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill has been triggered.
+:green-checkmark: CliqueDataJoin..."
+ALL JUNE 2025 MSG: "<@U01QTUC5RQA> lyrics are ready for your review:
+
+• <https://roar.spotify.net/lyrics/checks/pecs/640..."
+  -> Contains lyrics!
+MSG with LYRICS in June 2025: "<@U01QTUC5RQA> lyrics are ready for your review:
+
+• <https://roar.spotify.net/lyrics/checks/pecs/6409b4e3-6e82-4077-8bfd-b15c4c4de79e?st=10e9c3e0-52dd-4bc1-a45|MEC check UI>
+• <https://docs.google.com/spreadsheets/d/1jJ_UwMQFkGNh7uM3Bhk7EIcOYZf4Yocx_i6wKQKt2hw/edit?gid=84429079#gid=84429079|MEC check template>
+Obviously lots to figure out here but shoutout to <@U01QTTEBU74> for the amazing work on the template this month!..."
+Lyrics index: 15, Booked index: -1, hasBooked: false
+ALL JUNE 2025 MSG: "I have setup some time for a postmortem for the 2025 May MEC: <https://calendar.google.com/calendar/..."
+ALL JUNE 2025 MSG: ":hi-cat:
+Hello :monarch:s! Another month, another MEC! This time around I will be the MEC coordinato..."
+ALL JUNE 2025 MSG: "Hi everyone!
+
+I’d like to discuss the SLO for the Fraud Streams MEC V2 and V3 dataset. Do you think ..."
+ALL JUNE 2025 MSG: "Hi all, sending this a bit far and wide so we are all on the same page.
+
+<!subteam^S02DTMFHCSZ> <!su..."
+  -> Contains lyrics!
+MSG with LYRICS in June 2025: "Hi all, sending this a bit far and wide so we are all on the same page.
+
+<!subteam^S02DTMFHCSZ> <!subteam^S05RMP742DP> <@U01QTKKCRFV> <@U01QM1E2HV4> <@U039FBW6LR5> <@U01R6K2KX8R>
+
+Just doing some house cleaning in our G drive and wanted to flag that Lyrics, ABP and Music MEC folders have all been moved into the <https://drive.google.com/drive/u/0/folders/1HLN0FHjdd9fqaD0bVUcIxdhN_P8Qdqvf|Royalties / MEC folder> (they were previously all separated into different areas). I don't think CA has a ton..."
+Lyrics index: 250, Booked index: -1, hasBooked: false
+ALL JUNE 2025 MSG: "Hi! <@U01QTDS8J74> What are the Arpu* MEC dates this month, so that we can make sure to schedule ARP..."
+ALL JUNE 2025 MSG: "Hi :monarch: ! For the upcoming June MEC, I will be the MEC coordinator from Bard on the audiobook d..."
+ALL JUNE 2025 MSG: "Hi all! X-posting <https://spotify.slack.com/archives/CGZTQBK6D/p1750875035033559|exciting news> abo..."
+ALL JUNE 2025 MSG: "Hello all,
+
+*June 2025 MEC* is fast approaching. See below housekeeping items, timelines and key lin..."
+  -> Contains WD3!
+  -> Contains lyrics!
+MSG with LYRICS in June 2025: "Hello all,
+
+*June 2025 MEC* is fast approaching. See below housekeeping items, timelines and key links for the month.
+
+*Housekeeping items:*
+• Per <https://spotify.slack.com/archives/CB0CY1YBH/p1750875266510819|this ping>, The Oracles now own Moneybooker - any MB issues should be raised to <#C02F6DAGVHA|>, and I have updated RoyOps coda page for The Oracles incident raising protocol
+• Lyrics Booking has been moved up from WD4 to WD3 for a trial period - if this is not doable due to the hectic na..."
+Lyrics index: 388, Booked index: -1, hasBooked: false
+ALL JUNE 2025 MSG: ":hi-cat: *MEC UPDATE for music royalties:*
+:green-checkmark: Backfill has been triggered.
+:load: Cli..."
+ALL JUNE 2025 MSG: ":bird-bard: ABP MEC update:
+:green-checkmark: Backfill has been triggered.
+:load: backfill is comple..."
+ALL JUNE 2025 MSG: "*WD-1 Update*
+
+All pre MEC items for ABP, Music and Lyrics are either complete or in progress / tria..."
+  -> Contains lyrics!
+MSG with LYRICS in June 2025: "*WD-1 Update*
+
+All pre MEC items for ABP, Music and Lyrics are either complete or in progress / triaged to the required folks. We are looking good as we enter WD1 tomorrow! Cheers.
+
+cc <@U01QTUC5RQA> <!subteam^S02DTMFHCSZ> <!subteam^S05RMP742DP> <@U01QTKKCRFV> <@U01QM1E2HV4>..."
+Lyrics index: 52, Booked index: -1, hasBooked: false
+MSG with LYRICS in July 2025: "Hi all, WD1 -> WD2 update below:
+
+:books-jam:  *ABP*
+• Completed  :green-checkmark: 
+    ◦ <https://roar.spotify.net/audiobooks/calculations/results/0197c613-cf9f-575e-6631-7180ff20daf7|June 2025 Audioboks run> 
+    ◦ <https://roar.spotify.net/audiobooks/checks/pecs/ddda4fb8-b89c-4d7c-95d2-0ebee071c3ac?st=13a7c6c8-5bd8-46a0-a4b9-3c973d3eb041|June 2025 Audiobooks MEC UI >
+    ◦ Pre MEC checks 
+        ▪︎ <@U039PAFMTAS> the Hachette/Bolinda title count check is ready for your sign off
+        ▪︎ <..."
+Lyrics index: 785, Booked index: 747, hasBooked: true
+MSG with LYRICS in July 2025: "Hi all, WD2 -> WD3 update below:
+
+:books-jam:  *ABP*
+• Completed  :green-checkmark:
+    ◦ June 2025 booked
+:microphone:  *Lyrics*
+• Completed  :green-checkmark:
+    ◦ May 2024 - Feb 2025 runs booked/signed/ingested
+    ◦ Q4 24 re-run actuals and Q2 25 actual runs successfully completed
+• Tomorrow's goals :goal-net-raccoon:
+    ◦ <@U01QQA4PLFP> to UAT Q4 24 re-run actuals and Q2 25 actual runs
+    ◦ <@U01R08RL7J8> to review/approve
+    ◦ GPO to sign/book/ingest
+    ◦ <@U01QTTEBU74> and I to handl..."
+Lyrics index: 122, Booked index: 100, hasBooked: true
+FULL MSG in June 2025: "Hi all, WD2 -> WD3 handover - see below:
+
+:music-note:  *Music*
+• <@U01QCSMDPK9> please close out the FiDi workflows tomorrow when you can!
+• Please document volatile backfill issues in a ticket (when you can!) and <https://spotify.slack.com/archives/CB0CY1YBH/p1748974847313579?thread_ts=1748949656.686449&cid=CB0CY1YBH|respond to Q re: this impacting CAND> <@U01QTM3015H> - just want to make sure we don't hit any unforeseen delays
+• <https://docs.google.com/spreadsheets/d/1h2pp0qanUVpWzrdvR2MxAWted08lRZrSZM5nP_SkbtE/edit?gid=0#gid=0|Breakage file> for 2025 05 is ready for ingestion <@U01QTM3015H> 
+• <@U01QQA4PLFP> if you can take care of the "licensors without a vendor assignment" check that would be great! (refer to prior month's commentary on what to look for!)
+:pencil2:  *Lyrics*
+• Re-runs back to May 2024 are ready to go, but we are figuring out who should be approving - FYI <@U01QTTEBU74> 
+:books-jam:  *ABP*
+• We are <https://spotify.slack.com/archives/CB0CY1YBH/p1748973490149749|booked>
+:goal-net-raccoon: _Tomorrow's goal(s):_
+• Book lyrics re-runs back to May 2024
+• Run _(not necessarily book)_ May 2025 Lyrics MEC
+• Book May 2025 Music MEC by EOD
+cc <@U01QTUC5RQA> <@U01QTKKCRFV> <@U01QM1E2HV4> <@U01QM9UAPK8> <!subteam^S02DTMFHCSZ> <!subteam^S05RMP742DP>"
+Extracted target month: June 2025
+
+Processing: Target month June 2025
+Found MEC Update in target month June 2025 (day 2): ":hi-cat: MEC UPDATE:
+:green-checkmark: Backfill ha..."
+Duration: 2208 minutes (36.8h)

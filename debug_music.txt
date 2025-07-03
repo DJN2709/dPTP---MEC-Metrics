@@ -1,0 +1,33 @@
+extractMusicHighLevelTimeline CALLED, messages: 951
+MSG in June 2025: "<@U01QZNWM9A8> I'm seeing some failing music rerun ingests for runs with the comment `MLC Re-Run Pro..."
+Extracted target month: null
+MSG in June 2025: "Hi all, WD2 -> WD3 handover - see below:
+
+:music-note:  *Music*
+• <@U01QCSMDPK9> please close out th..."
+Extracted target month: May 2024
+MSG in June 2025: "*WD3 EOD update:*
+
+:music-note:  *Music:*
+• <https://roar.spotify.net/music/calculations/results/019..."
+Extracted target month: May 2025
+MSG in July 2025: "Hi all, WD1 -> WD2 update below:
+
+:books-jam:  *ABP*
+• Completed  :green-checkmark: 
+    ◦ <https://..."
+Extracted target month: June 2025
+MSG in July 2025: "Hi all, WD2 -> WD3 update below:
+
+:books-jam:  *ABP*
+• Completed  :green-checkmark:
+    ◦ June 2025 ..."
+Extracted target month: June 2025
+Processing: Target month June 2025, looking for MEC Update in May 2025
+Available MEC Updates: 5
+MEC Updates months: June 2025, June 2025, June 2025, June 2025, July 2025
+No MEC Update found in May 2025 for June 2025 music
+Processing: Target month June 2025, looking for MEC Update in May 2025
+Available MEC Updates: 5
+MEC Updates months: June 2025, June 2025, June 2025, June 2025, July 2025
+No MEC Update found in May 2025 for June 2025 music
